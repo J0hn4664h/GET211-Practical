@@ -1,0 +1,22 @@
+TITLE: Student Result Processing System
+
+1. OBJECTIVE
+To develop a program that processes student scores and det>
+
+2. INPUTS
+- Student name
+- Subjects
+- Scores
+
+3. PROCESS
+- Store subjects and scores
+- Compute grade based on score
+- Determine pass/fail status
+
+4. OUTPUTS
+- Student name
+- Subject, score, grade, status
+
+5. ASSUMPTIONS
+- Scores are numeric
+- Pass mark is 40
