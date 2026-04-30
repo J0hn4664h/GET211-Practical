@@ -4,5 +4,5 @@
 V = 15;
 I = 8;
 P = I*V;
-disp(P);
+disp(P+"W");
 ```
